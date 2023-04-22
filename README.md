@@ -1,0 +1,2 @@
+# simpleNetworkKonfigurator
+Privacy Policy
